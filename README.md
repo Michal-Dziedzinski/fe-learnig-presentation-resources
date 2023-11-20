@@ -31,3 +31,9 @@
 [Frontend Masters](https://frontendmasters.com/)
 
 [egghead.io](https://egghead.io/)
+
+## Konferencje i meetup’y
+
+[WarsawJS](https://www.youtube.com/@Warsawjs)
+
+[devjs Poland](https://www.youtube.com/@devjspoland3792)
